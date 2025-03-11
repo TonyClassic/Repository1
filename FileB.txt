@@ -1,0 +1,1 @@
+Ciao sono un file B e dovrei essere committato sul branch ramo1
